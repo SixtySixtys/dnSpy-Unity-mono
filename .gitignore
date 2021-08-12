@@ -11,3 +11,6 @@ obj/
 *.suo
 *.user
 *.tmp_proj
+
+.fake
+.ionide
